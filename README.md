@@ -18,3 +18,6 @@ This repository contains Homework 1 for the GenAI MBA course, including a draft 
 | `589d8ee` | Remove final_version.md |
 | `f7f42fe` | Add content to assistant_draft.md with bio, research focus, AI use cases, and reflection note |
 | `67c8370` | Initial commit with project files |
+
+## Youtube link
+https://youtu.be/NU0T-x9a_S8
